@@ -1,4 +1,4 @@
-# Exercise 3: Operating Systems
+# Exercise 2: Operating Systems
 
 ## Due Date
 The due date for this exercise is **15.12.2024, 23:59**.
