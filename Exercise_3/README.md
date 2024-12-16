@@ -19,10 +19,12 @@ Please submit your zip file to the submission system: [https://submit.cs.biu.ac.
 ## Tester
 ```sh
 sudo python3 part3_tests.py
+cat test_output.txt
 ```
 Or
 ```sh
 sudo python part3_tests.py
+cat test_output.txt
 ```
 
 Make sure to follow the instructions carefully and submit all required files as specified. If you have any questions, feel free to reach out for assistance.
